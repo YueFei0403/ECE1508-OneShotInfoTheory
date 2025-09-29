@@ -52,9 +52,4 @@ Two reports exploring **rate-constrained inference** and **efficient sample comm
 
 ---
 
-## 👤 Author
-**Yue Fei** – ECE1508 Student Project Reports
-
----
-
 > These materials are for academic and research use only.
